@@ -3,6 +3,12 @@
 **Paytm "Build for India" Track**  
 *Empowering Kirana Storekeepers across Bharat with Voice AI & Closed-Loop Economics.*
 
+[![Repository](https://img.shields.io/badge/GitHub-WHEELYDOS%2FPaytm__vriddhi-blue?logo=github)](https://github.com/WHEELYDOS/Paytm_vriddhi)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Production%20Ready-black?logo=vercel)](https://vercel.com)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-1.0.0-009688?logo=fastapi)](https://fastapi.tiangolo.com)
+[![React 19](https://img.shields.io/badge/React-19.3-61DAFB?logo=react)](https://react.dev)
+
 ---
 
 ## 1. The Core Concept: A Closed Economic Loop & "Munim"
